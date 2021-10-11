@@ -1,0 +1,8 @@
+**/build/
+**/debug/
+**/dist/
+**/utilities/
+/Debug/
+.cproject
+.project
+.settings/
